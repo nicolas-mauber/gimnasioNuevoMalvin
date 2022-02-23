@@ -1,0 +1,35 @@
+.container {
+  position: relative;
+  width: auto;
+  height: 350px;
+  max-height: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #445291;
+}
+
+.card {
+  width: 50%;
+  margin: 5px;
+  height: 70%;
+}
+.contenedor-boton {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #445291;
+  margin: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+  border-radius: 10px;
+  width:100%px;
+}
+.btn-secondary{
+  border: 1px solid white;
+  width: 20vw;
+}

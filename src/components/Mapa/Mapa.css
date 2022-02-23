@@ -1,0 +1,40 @@
+input {
+  margin-top: 10px;
+}
+.ingreso-texto {
+  margin-top: 10px;
+}
+.map-container-6 {
+  margin-bottom: 100px;
+}
+.form-control {
+  border: 2px solid rgb(87, 62, 62);
+  width: 100%;
+  height: 100%;
+}
+label {
+  width: 350px;
+}
+.contedor-contacto {
+  padding-left: 130px;
+  margin-top: 50px;
+}
+.card {
+  width: 450px;
+  border: 1.5px solid rgb(87, 62, 62);
+  height: 350px;
+}
+.section-heading {
+  margin-left: 10%;
+}
+.principal-container {
+  background-image: url("https://images.pexels.com/photos/269874/pexels-photo-269874.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+}
+.submit-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0px;
+  margin-top: 40px;
+}
