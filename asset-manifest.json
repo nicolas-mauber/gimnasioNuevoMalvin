@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gimnasioNuevoMalvin/static/css/main.6828f7cd.css",
+    "main.js": "/gimnasioNuevoMalvin/static/js/main.10ef264e.js",
+    "static/media/malvin.png": "/gimnasioNuevoMalvin/static/media/malvin.a3aee31c8f7d630e454d.png",
+    "index.html": "/gimnasioNuevoMalvin/index.html",
+    "main.6828f7cd.css.map": "/gimnasioNuevoMalvin/static/css/main.6828f7cd.css.map",
+    "main.10ef264e.js.map": "/gimnasioNuevoMalvin/static/js/main.10ef264e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6828f7cd.css",
+    "static/js/main.10ef264e.js"
+  ]
+}
