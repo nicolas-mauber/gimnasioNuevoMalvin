@@ -21,7 +21,7 @@ const Map = () => {
   }
 
   return (
-    <div className="principal-container">
+    <div className="principal-container" id="contacto">
       <section className="section pb-5">
         <h2 className="section-heading h1 pt-4">Contactanos</h2>
 
@@ -66,7 +66,7 @@ const Map = () => {
                   ></textarea>
                 </div>
 
-                <input className="submit-button" type="submit" value="Enviar" />
+                <input className="submit-button bg-primary" type="submit" value="Enviar" />
               </div>
             </div>
           </form>

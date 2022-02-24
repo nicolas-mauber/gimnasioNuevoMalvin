@@ -2,8 +2,8 @@ import React from "react";
 import "./Carrusel.css";
 const Carrusel = () => {
   return (
-    <div>
-      <div className="separador"></div>
+    <div >
+      <div className="separador" id="galeria"></div>
       <div className="container-carrusel">
         <div
           id="carouselExampleControls"

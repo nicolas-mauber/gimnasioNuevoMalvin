@@ -1,18 +1,18 @@
-.prueba{
-    color: white;
-    margin-left: 100px;
-    margin-top: -40px;
-  }
-  .logo{
-    margin-top: 5px;
-    margin-left: 10px;
-    border-radius: 15px;
-    width: 80px;
-    background-color: black;
-  }
-  
-.navbar{
+.logo {
+  margin-top: 5px;
+  margin-left: 10px;
+  border-radius: 15px;
+  width: 120px;
+  background-color: black;
+}
+
+.navbar {
   background-color: black;
   height: 80px;
 }
 
+.scroll {
+  border-radius: 10px;
+  color: rgb(206, 189, 159);
+  
+}

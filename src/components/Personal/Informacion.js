@@ -6,8 +6,8 @@ import AlternateEmailIcon from '@material-ui/icons/AlternateEmail';
 
 const Informacion = () => {
   return (
-    <div>
-      <div className="container">
+    <div >
+      <div className="container" id="personal" name='personal'>
         <div className="card">
           <div className="card-body">
             <h5 className="card-title">Nuestra Filosofia</h5>
@@ -48,6 +48,7 @@ const Informacion = () => {
           VER HORARIOS
         </a>
       </div>
+      
     </div>
   );
 };
