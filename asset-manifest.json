@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gimnasioNuevoMalvin/static/css/main.05715fd4.css",
-    "main.js": "/gimnasioNuevoMalvin/static/js/main.628e6e85.js",
+    "main.js": "/gimnasioNuevoMalvin/static/js/main.6e73d72d.js",
     "static/media/horarios.jpg": "/gimnasioNuevoMalvin/static/media/horarios.a7a6fce7a16b7f97f53d.jpg",
     "static/media/malvin2.jpg": "/gimnasioNuevoMalvin/static/media/malvin2.186deab06c4191483283.jpg",
     "static/media/gimnasioPesas.jpg": "/gimnasioNuevoMalvin/static/media/gimnasioPesas.00f4eedd81d33f0e7519.jpg",
@@ -9,10 +9,10 @@
     "static/media/Malvin33.jpg": "/gimnasioNuevoMalvin/static/media/Malvin33.b9960199e14df6718609.jpg",
     "index.html": "/gimnasioNuevoMalvin/index.html",
     "main.05715fd4.css.map": "/gimnasioNuevoMalvin/static/css/main.05715fd4.css.map",
-    "main.628e6e85.js.map": "/gimnasioNuevoMalvin/static/js/main.628e6e85.js.map"
+    "main.6e73d72d.js.map": "/gimnasioNuevoMalvin/static/js/main.6e73d72d.js.map"
   },
   "entrypoints": [
     "static/css/main.05715fd4.css",
-    "static/js/main.628e6e85.js"
+    "static/js/main.6e73d72d.js"
   ]
 }
