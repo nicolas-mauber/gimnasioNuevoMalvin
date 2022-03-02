@@ -27,7 +27,7 @@ const Map = () => {
 
         <div className="row">
           <form
-            className="col-lg-5 mb-4 contedor-contacto"
+            className="col-lg-5 mb- contedor-contacto"
             onSubmit={sendEmail}
           >
             {/* Compienzoi de foprmulario */}
@@ -41,6 +41,7 @@ const Map = () => {
                     className="form-control"
                     placeholder="Nombre"
                     name="name"
+                    required
                   />
                 </div>
 
@@ -52,6 +53,7 @@ const Map = () => {
                     className="form-control"
                     placeholder="Email"
                     name="user_email"
+                    required
                   />
                 </div>
 
@@ -63,10 +65,15 @@ const Map = () => {
                     rows="3"
                     name="message"
                     placeholder="Ingrese su consulta"
+                    required
                   ></textarea>
                 </div>
 
-                <input className="submit-button bg-primary" type="submit" value="Enviar" />
+                <input
+                  className="submit-button bg-primary"
+                  type="submit"
+                  value="Enviar"
+                />
               </div>
             </div>
           </form>
@@ -74,15 +81,15 @@ const Map = () => {
           <div className="col-lg-7">
             <div
               id="map-container-google-11"
-              className="z-depth-1-half map-container-6"
+              className="z-depth-1-half map-container-6 "
               style={{ height: "400px" }}
             >
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13089.936642385048!2d-56.1087691!3d-34.8942975!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc75d6003fffdc65c!2sClub%20Nuevo%20Malvin!5e0!3m2!1ses!2suy!4v1645630470263!5m2!1ses!2suy"
-                width="800"
-                height="500"
+                width="100%"
+                height="100%"
                 style={{ border: 0 }}
-                allowFullScreen=""
+                allowFullScreen
                 loading="lazy"
                 frameBorder="0"
                 style={{ border: 0 }}

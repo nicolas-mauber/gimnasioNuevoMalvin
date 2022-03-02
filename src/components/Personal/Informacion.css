@@ -1,20 +1,20 @@
 .container {
   position: relative;
   width: auto;
-  height: 350px;
+  height: 40vh;
   max-height: 100%;
   max-width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 3%;
   background-color: #445291;
 }
 
 .card {
   width: 50%;
-  margin: 5px;
-  height: 70%;
+  margin: 0.3%;
+  height: 50%;
 }
 .contenedor-boton {
   position: relative;
@@ -22,14 +22,17 @@
   justify-content: center;
   align-items: center;
   background-color: #445291;
-  margin: 30px;
+  margin: 2%;
   margin-left: 20%;
   margin-right: 20%;
-  padding: 20px;
+  padding: 1.5%;
   border-radius: 10px;
-  width:100%px;
+  width:60%;
 }
 .btn-secondary{
   border: 1px solid white;
   width: 20vw;
+}
+.card-text{
+  font-size: 100%;
 }

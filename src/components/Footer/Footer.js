@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>
-        <CopyrightIcon /> Copyright Nicolas Mauber
+        <CopyrightIcon /> Copyright 2022 Nicolas Mauber
       </p>
 
     </div>

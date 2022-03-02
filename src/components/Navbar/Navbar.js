@@ -7,17 +7,29 @@ const Navbar = () => {
     <nav className="navbar">
       <img src={malvin} className="logo" />
 
-      <div className="scroll ">
-        <Button className="scroll mx-4 bg-secondary" variant="text" href="#personal">
+      <div className="botones">
+        <Button
+          id="scroll"
+          variant="text"
+          href="#galeria"
+        >
+          Galeria
+        </Button>
+        <Button
+          id="scroll1"
+          variant="text"
+          href="#personal"
+          className="mx-4"
+        >
           Informacion
         </Button>
 
-        <Button className="scroll mx-4 bg-secondary" variant="text" href="#contacto">
+        <Button
+          id="scroll2"
+          variant="text"
+          href="#contacto"
+        >
           Contacto
-        </Button>
-
-        <Button className="scroll mx-4 bg-secondary" variant="text" href="#galeria">
-          Galeria
         </Button>
       </div>
     </nav>

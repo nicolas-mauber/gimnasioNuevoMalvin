@@ -1,32 +1,32 @@
-.contenedor-horarios {
+.contenedor-principal {
   background-color: rgb(68, 82, 145);
   background-image: url("https://images.pexels.com/photos/669584/pexels-photo-669584.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
 }
-.contenedor-foto {
+.contenedor-foto-horarios {
   position: relative;
   width: 100%;
   max-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 25px;
+  padding: 3%;
 }
 
 .texto {
-  width: 100%;
-  max-height: 100%;
+  padding-top: 3%;
   display: flex;
   justify-content: center;
-  padding-top: 30px;
-  font-size: 40px;
-  font-weight: 130px;
-  color: rgb(56, 37, 90);
-  font-family: 'Verdana,Segoe UI, Tahoma,  sans-serif';
+  align-items: center;
+  color: rgb(2, 43, 51);
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.foto {
+.foto-horarios {
   height: auto;
   width: auto;
   max-height: 60%;
   max-width: 60%;
+}
+.title{
+  background-color: rgba(255, 255, 255, 0.15);
 }

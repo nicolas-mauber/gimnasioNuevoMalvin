@@ -1,5 +1,9 @@
 import React from "react";
 import "./Carrusel.css";
+import malvin2 from "../../images/malvin2.jpg"
+import Malvin33 from "../../images/Malvin33.jpg"
+import gimnasioPesas from "../../images/gimnasioPesas.jpg"
+
 const Carrusel = () => {
   return (
     <div >
@@ -13,21 +17,21 @@ const Carrusel = () => {
           <div className="carousel-inner ">
             <div className="carousel-item active">
               <img
-                src="./Imagenes/gimnasioPesas.jpg"
+                src={gimnasioPesas}
                 className="d-block w-100"
                 alt="..."
               />
             </div>
             <div className="carousel-item">
               <img
-                src="./Imagenes/malvin2.jpg"
+                src={Malvin33}
                 className="d-block w-100"
                 alt="..."
               />
             </div>
             <div className="carousel-item">
               <img
-                src="./Imagenes/malvin33.jpg"
+                src={malvin2}
                 className="d-block w-100"
                 alt="..."
               />

@@ -1,18 +1,24 @@
 .logo {
-  margin-top: 5px;
-  margin-left: 10px;
-  border-radius: 15px;
-  width: 120px;
+  margin-top: 0.2%;
+  margin-left: 1%;
+  border-radius: 18%;
+  width: 8%;
   background-color: black;
 }
 
 .navbar {
   background-color: black;
-  height: 80px;
+  height: 190% !important;
 }
 
-.scroll {
-  border-radius: 10px;
-  color: rgb(206, 189, 159);
-  
+#scroll,#scroll1,#scroll2 {
+  border-radius: 5%;
+  color: rgb(255, 255, 255);
+  height: 10%;
+  width: 20%;
+  margin: 5%;
+}
+.botones{
+  height: 10%;
+  width: 20%;
 }
